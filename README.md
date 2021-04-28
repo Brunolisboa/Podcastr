@@ -48,4 +48,5 @@ criado a partir do comando "npx create-next-app" pois o next traz uma gama de Be
 ## Página do Episódio.
 ![](/imgs_git/PodcastrEpisode.jpg)
 
+## Projeto em constante evolução!
 
