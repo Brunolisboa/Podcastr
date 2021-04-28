@@ -42,10 +42,10 @@ criado a partir do comando "npx create-next-app" pois o next traz uma gama de Be
 ## Tecnologias utilizadas no Projeto 
 ![](/imgs_git/stacks.jpg)
 
-## Página Home em execução 
+## Página Home. 
 ![](/imgs_git/PodcastrHome.jpg)
 
-## Página do Episódio em execução
+## Página do Episódio.
 ![](/imgs_git/PodcastrEpisode.jpg)
 
 
